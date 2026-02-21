@@ -4,7 +4,7 @@
 
 ## 📹 Видео геймплея
 
-[![Watch the video](https://img.youtube.com/vi/gJrrbD4bHfQ/0.jpg)](https://www.youtube.com/watch?v=gJrrbD4bHfQ)
+[![Watch the video](https://i.ytimg.com/vi/gJrrbD4bHfQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=gJrrbD4bHfQ)
 
 > Нажмите на картинку или перейдите по ссылке:  
 > 🔗 https://www.youtube.com/watch?v=gJrrbD4bHfQ
